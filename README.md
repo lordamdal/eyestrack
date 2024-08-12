@@ -28,11 +28,11 @@ You can install the required Python packages using pip:
 
 ```bash
 pip install opencv-python mediapipe pyautogui numpy
-```bash
-How to run it 
+.
+
+#How to run it 
 Run the Script:
 
 Navigate to the directory containing the script and run it with Python:
 ```bash
 python eyestrack.py
-
