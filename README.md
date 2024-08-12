@@ -29,7 +29,18 @@ You can install the required Python packages using pip:
 ```bash
 pip install opencv-python mediapipe pyautogui numpy
 
+## How to Run
 
-Run the Script:
+### Download YOLOv3 Files
 
-python eyestrack.py
+Ensure you have the `yolov3.weights`, `yolov3.cfg`, and `coco.names` files in the same directory as the script. These files are necessary for object detection (e.g., detecting a phone). You can download these files from the following link:
+
+- [Download YOLOv3 Files](https://pjreddie.com/darknet/yolo/)
+
+### Run the Script
+
+Navigate to the directory containing the script and run it with Python:
+
+```bash
+python anti_cheating_system.py
+
