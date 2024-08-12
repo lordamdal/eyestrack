@@ -28,8 +28,8 @@ You can install the required Python packages using pip:
 
 ```bash
 pip install opencv-python mediapipe pyautogui numpy
-
-## How to run it 
+```bash
+How to run it 
 Run the Script:
 
 Navigate to the directory containing the script and run it with Python:
